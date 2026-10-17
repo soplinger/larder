@@ -1,0 +1,2 @@
+# Optional. The tests also run with the standard library's unittest.
+pytest>=7
